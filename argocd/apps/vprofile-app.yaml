@@ -8,7 +8,7 @@ metadata:
 spec:
   project: vprofile
   source:
-    repoURL: git@github.com:patilpreet21/vprofile-helm.git
+    repoURL: https://github.com/patilpreet21/vprofile-helm.git
     targetRevision: main
     path: vprofile
     helm:
