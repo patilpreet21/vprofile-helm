@@ -32,7 +32,6 @@ initcontainers:
     - -c
 ingress:
   enabled: true
-  host: vprofile.example.com
   servicePort: 8080
 secrets:
   dbPassword: vprodbpass
